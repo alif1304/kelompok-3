@@ -11,7 +11,8 @@ Contact | {{ config('settings.name') }}
             <div class="row">
                 <div class="col-6 my-3" data-aos="fade-up">
                     <h3>Contact Us</h3>
-                    <p>Nice to meet you 😊. Have a question or just want to get in touch? Let's message.</p>
+                    <p>Senang Bertemu denganmu 😊. Jika Ada Pertanyaan atau ingin memberikan saran hubungi kami
+                        di bawah ini.</p>
                 </div>
             </div>
             <div class="row">

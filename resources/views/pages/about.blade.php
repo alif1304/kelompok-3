@@ -16,8 +16,9 @@ About | {{ config('settings.name') }}
             <div class="row" data-aos="zoom-in">
                 <div class="col-md-12">
                     <p>{{ config('settings.name') }} adalah toko Seafood yang mengalosikan semua hasil
-                         ikannya kepada nelayan lokal di seluruh indonesia. Alamat lengkapnya di <i>{{ config('settings.address') }}</i> atau bisa klik
-                        <b><a href="https://goo.gl/maps/tcMxZBw6xAKah3eQ7" target="__blank">di sini</a></b> untuk
+                         ikannya kepada nelayan lokal di seluruh indonesia. untuk memajukan perekonomian di Indonesia dengan
+                         meningkatkan proktifitas para nelayan dan mendistribusikannya secara meluas. Alamat lengkapnya di <i>{{ config('settings.address') }}</i> atau bisa klik
+                        <b><a href="https://goo.gl/maps/tcMxZBw6xAKah3eQ7" target="__blank">di sini</a></b>  untuk
                         detailnya.
                     </p>
                     <p>Toko ini masih bergerak dan melayani secara offline, untuk operasional toko secara offline, buka

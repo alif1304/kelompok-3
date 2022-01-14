@@ -60,7 +60,7 @@ Contact | {{ config('settings.name') }}
                             @endif
                         </div>
                         <div>
-                            <button type="submit" class="btn btn-success px-4"><i class="fas fa-comment-dots"></i> Send
+                            <button type="submit" class="btn btn-primary px-4"><i class="fas fa-comment-dots"></i> Send
                                 Message</button>
                         </div>
                     </form>

@@ -11,7 +11,7 @@ Transactions | {{ config('settings.name') }}
         <div class="dashboard-heading">
             <h2 class="dashboard-title">Transactions</h2>
             <p class="dashboard-subtitle">
-                Riwayat pembelian alat-alat pancing Anda
+                Riwayat pembelian Seafood Anda
             </p>
         </div>
         <div class="dashboard-content">

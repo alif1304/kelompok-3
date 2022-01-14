@@ -1,4 +1,4 @@
-<img src="https://github.com/rezarinaldi/fishing-store/raw/main/public/images/copy.png" width="200px" align="left"/>
+<img src="https://github.com/rezarinaldi/fishing-store/raw/main/public/images/copy.png" width="50px" align="left"/>
 <br><br>
 <p align="left">
   <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>

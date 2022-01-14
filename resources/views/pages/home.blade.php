@@ -20,7 +20,7 @@ Home | {{ config('settings.name') }}
                     @endif
                     <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
                         <div class="col-10 col-sm-8 col-lg-6">
-                            <img src="/images/nel.jpg" class="d-block mx-lg-auto img-fluid rounded" alt="banner"
+                            <img src="/images/nelayan3.jpg" class="d-block mx-lg-auto img-fluid rounded" alt="banner"
                                 width="700" height="500" loading="lazy">
                         </div>
                         <div class="col-lg-6">

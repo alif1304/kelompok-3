@@ -28,7 +28,7 @@
                     <a href="{{ route('register') }}" class="nav-link">Register</a>
                 </li>
                 <li class="nav-item">
-                    <a href="{{  route('login') }}" class="btn btn-success nav-link px-4 text-white"><i
+                    <a href="{{  route('login') }}" class="btn btn-primary nav-link px-4 text-white"><i
                             class="fas fa-sign-in-alt"></i> Log In</a>
                 </li>
                 @endguest

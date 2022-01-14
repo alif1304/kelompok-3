@@ -32,7 +32,7 @@ Home | {{ config('settings.name') }}
                             <p class="lead">{{ config('settings.description') }} di Toko {{ config('settings.name') }}
                             </p>
                             <div class="d-grid gap-2 d-md-flex justify-content-md-start">
-                                <a href="#buy-now" class="btn btn-success nav-link px-4 text-white"><i
+                                <a href="#buy-now" class="btn btn-primary nav-link px-4 text-white"><i
                                         class="fas fa-shopping-cart"></i> Beli Sekarang</a>
                             </div>
                         </div>

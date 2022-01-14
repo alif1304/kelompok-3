@@ -15,23 +15,22 @@ About | {{ config('settings.name') }}
             </div>
             <div class="row" data-aos="zoom-in">
                 <div class="col-md-12">
-                    <p>{{ config('settings.name') }} adalah toko alat pancing yang berlokasi di Wendit *baca Mendit,
-                        Kabupaten Malang. Alamat lengkapnya di <i>{{ config('settings.address') }}</i> atau bisa klik
+                    <p>{{ config('settings.name') }} adalah toko Seafood yang mengalosikan semua hasil
+                         ikannya kepada nelayan lokal di seluruh indonesia. Alamat lengkapnya di <i>{{ config('settings.address') }}</i> atau bisa klik
                         <b><a href="https://goo.gl/maps/tcMxZBw6xAKah3eQ7" target="__blank">di sini</a></b> untuk
                         detailnya.
                     </p>
                     <p>Toko ini masih bergerak dan melayani secara offline, untuk operasional toko secara offline, buka
                         pada jam 7 pagi - 9 malam. Nomor handphone yang ada di link google map (<b><a href="tel:+{{
-                            config('settings.telephone') }}">{{ config('settings.telephone') }}</a></b>), kami tidak
-                        mengetahui apakah masih menggunakan nomor tersebut atau sudah ganti. Karena owner dari toko alat
-                        pancing tersebut, sudah lama tidak mengelola dan meng-update data-data di google map. Untuk cara
-                        lain, mungkin bisa menghubungi melalui e-mail disamping: <b><a
+                            config('settings.telephone') }}">{{ config('settings.telephone') }}</a></b>), Seafood yang di jual di toko ini
+                            merupakan hasil kerjasama antara pihak kami dan nelayan lokal. yang memanfaatkan sumber daya di indonesia
+                            untuk pemesanan yang lumayan banyak. bisa menghubungi melalui e-mail disamping: <b><a
                                 href="mailto:{{ config('settings.email') }}">{{ config('settings.email') }}</a></b>.
                     </p>
 
                     <p>Nomor Rekening:
                         <br>
-                        1090088866648 | A.n DK Pancing
+                        1090088866648 | A.n DK Seafood
                         <br>
                         <img src="/images/BSI_logo.png" alt="Seafood">
                     </p>

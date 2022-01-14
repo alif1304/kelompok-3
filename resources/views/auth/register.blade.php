@@ -11,7 +11,7 @@ Register | {{ config('settings.name') }}
         <div class="container">
             <div class="row align-items-center row-login">
                 <div class="col-lg-6 text-center">
-                    <img src="/images/login-placeholder.jpg" alt="" class="w-50 mb-4 mb-lg-none rounded" />
+                    <img src="/images/nel.jpg" alt="" class="w-550 mb-4 mb-lg-none rounded" />
                 </div>
                 <div class="col-lg-5">
                     <h2 class="font-weight-bold">

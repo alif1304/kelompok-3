@@ -1,8 +1,8 @@
-<img src="https://github.com/rezarinaldi/fishing-store/raw/main/public/images/logo.png" width="200px" align="left"/>
+<img src="https://github.com/rezarinaldi/fishing-store/raw/main/public/images/copy.png" width="200px" align="left"/>
 <br><br>
 <p align="left">
   <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-<p>Webstite toko alat pancing untuk toko yang ada di daerah saya, yakni bernama DK Pancing. Project ini juga sebagai tugas matkul Proyek 3 & Manajemen Proyek IT.</p>
+<p>Website B-J-N.</p>
 <br><br>
 </p>
 
@@ -31,4 +31,5 @@ Documentation for Valet can be found on the [Laravel website](https://laravel.co
 
 -   Admin Email/Password: admin@gmail.com/admin123456
 -   User Email/Password: bella@gmail.com/bella123456
+
 # kelompok-3

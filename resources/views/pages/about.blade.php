@@ -10,7 +10,7 @@ About | {{ config('settings.name') }}
         <div class="container">
             <div class="row">
                 <div class="col-12 my-3" data-aos="fade-up">
-                    <h3>About Us</h5>
+                    <h3>About</h5>
                 </div>
             </div>
             <div class="row" data-aos="zoom-in">
@@ -31,7 +31,7 @@ About | {{ config('settings.name') }}
 
                     <p>Nomor Rekening:
                         <br>
-                        1090088866648 | A.n DK Seafood
+                        5735395345349 | A.n DK Seafood
                         <br>
                         <img src="/images/BSI_logo.png" alt="Seafood">
                     </p>
